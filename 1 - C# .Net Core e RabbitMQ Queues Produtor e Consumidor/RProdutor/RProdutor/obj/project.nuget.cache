@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2Dky3xCj/2Wf0M36aoUEg78A9cZwEXR3s2mdFdFVSb4AoPVh6/JDLT4S4IvXZRm2JI/wf/rRigrhjohlIs9lA==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Aulas\\github\\RabbitMQ\\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\\RProdutor\\RProdutor\\RProdutor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gfmau\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
