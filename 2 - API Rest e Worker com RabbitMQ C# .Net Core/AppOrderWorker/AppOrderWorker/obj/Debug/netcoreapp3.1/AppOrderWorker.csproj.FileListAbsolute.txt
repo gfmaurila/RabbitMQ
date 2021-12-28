@@ -1,0 +1,17 @@
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.exe
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.deps.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.runtimeconfig.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.csproj.AssemblyReference.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.csproj.CopyComplete
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\2 - API Rest e Worker com RabbitMQ C# .Net Core\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.genruntimeconfig.cache

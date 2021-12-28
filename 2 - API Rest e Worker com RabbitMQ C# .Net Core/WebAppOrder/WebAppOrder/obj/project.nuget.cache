@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SR3xV3BOawMzHUeMqHxFVwqeda/qm+xAC0y1a2N97V99WXIIUhQnY8F1Yf5K2McqNzo4zImMeAK4VXq+paw/eg==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Work\\Exemplos\\Alexandre Brandão Lustosa\\RabbitMQ\\2 - API Rest e Worker com RabbitMQ C# .Net Core\\WebAppOrder\\WebAppOrder\\WebAppOrder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gfmau\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
