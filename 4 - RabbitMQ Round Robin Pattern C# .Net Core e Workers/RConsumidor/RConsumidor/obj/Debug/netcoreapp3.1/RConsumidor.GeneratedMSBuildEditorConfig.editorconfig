@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = RConsumidor
+build_property.ProjectDir = C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xJKoJe/J2M8yt4bYgr9yFOXT7cqGiqPSVhDO2OaFOuSi2gZreiZmzVyqOi62RsDL3OGWoBz4NqIBjnEDUMk11Q==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Work\\Exemplos\\Alexandre Brandão Lustosa\\RabbitMQ\\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\\RConsumidor\\RConsumidor\\RConsumidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gfmau\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
