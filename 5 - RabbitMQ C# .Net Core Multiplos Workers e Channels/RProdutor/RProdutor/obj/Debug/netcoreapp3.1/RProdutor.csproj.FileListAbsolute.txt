@@ -1,0 +1,51 @@
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.exe
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.deps.json
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.json
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.dev.json
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.AssemblyReference.cache
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfoInputs.cache
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfo.cs
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CoreCompileInputs.cache
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CopyComplete
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.genruntimeconfig.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.exe
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.deps.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.AssemblyReference.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CopyComplete
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.genruntimeconfig.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.exe
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.deps.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.AssemblyReference.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CopyComplete
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.genruntimeconfig.cache
