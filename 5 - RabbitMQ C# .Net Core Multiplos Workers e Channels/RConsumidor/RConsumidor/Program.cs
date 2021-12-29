@@ -12,7 +12,7 @@ namespace RConsumidor
             var factory = new ConnectionFactory() { HostName = "localhost" };
             using (var connection = factory.CreateConnection())
             {
-                for (int i1 = 0; i1 < 4; i1++)
+                for (int i1 = 0; i1 < 2; i1++)
                 {
                     var channel = CreateChannel(connection);
 
@@ -22,7 +22,7 @@ namespace RConsumidor
                                     autoDelete: false,
                                     arguments: null);
 
-                    for (int i2 = 0; i2 < 3; i2++)
+                    for (int i2 = 0; i2 < 7; i2++)
                     {
                         BuildAndRunWorker(channel, $"Worker - {i1}:{i2}");
                     }
@@ -49,18 +49,16 @@ namespace RConsumidor
                     var body = ea.Body.ToArray();
                     var message = Encoding.UTF8.GetString(body);
                     Console.WriteLine($"channel: {channel.ChannelNumber} - workerName: {workerName} - [x] Received message: {message}");
-                    channel.BasicAck(ea.DeliveryTag, false);
+                    //channel.BasicAck(ea.DeliveryTag, false);
                 }
                 catch (Exception ex)
                 {
                     // Log ex
-                    channel.BasicNack(ea.DeliveryTag, false, false);
+                    //channel.BasicNack(ea.DeliveryTag, false, false);
                 }
             };
 
-            channel.BasicConsume(queue: "order",
-                                 autoAck: true,
-                                 consumer: consumer);
+            channel.BasicConsume(queue: "order", autoAck: true, consumer: consumer);
 
             Console.WriteLine(" Press [enter] to exit.");
             Console.ReadLine();

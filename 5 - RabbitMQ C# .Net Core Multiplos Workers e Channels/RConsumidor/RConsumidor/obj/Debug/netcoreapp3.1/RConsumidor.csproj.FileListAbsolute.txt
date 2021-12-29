@@ -46,3 +46,4 @@ C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net C
 C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.dll
 C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.pdb
 C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.genruntimeconfig.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\5 - RabbitMQ C# .Net Core Multiplos Workers e Channels\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.csproj.AssemblyReference.cache
