@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bkJ2BHu+0M5IVccUMhK+9fYhUA6s6kGM7kKsg+AE20Jp2GrmgTkA6Q8zbwo3IlLkkKxDRnmXSVmZMw36qXITBg==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Work\\Exemplos\\Alexandre Brandão Lustosa\\RabbitMQ\\7 - RabbitMQ Prefetch com C# .Net Core\\RConsumidor\\RConsumidor\\RConsumidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gfmau\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
