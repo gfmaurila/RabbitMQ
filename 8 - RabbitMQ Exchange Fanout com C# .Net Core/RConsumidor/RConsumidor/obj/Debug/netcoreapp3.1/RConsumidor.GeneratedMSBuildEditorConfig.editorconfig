@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = RConsumidor
+build_property.ProjectDir = C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\8 - RabbitMQ Exchange Fanout com C# .Net Core\RConsumidor\RConsumidor\
