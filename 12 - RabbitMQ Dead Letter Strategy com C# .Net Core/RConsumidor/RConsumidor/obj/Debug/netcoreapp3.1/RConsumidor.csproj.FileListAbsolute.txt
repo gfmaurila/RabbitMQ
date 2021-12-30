@@ -1,0 +1,49 @@
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.exe
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.deps.json
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.runtimeconfig.json
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.runtimeconfig.dev.json
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.pdb
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.AssemblyInfoInputs.cache
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.AssemblyInfo.cs
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.csproj.CoreCompileInputs.cache
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.csproj.CopyComplete
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.pdb
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.genruntimeconfig.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.exe
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.deps.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.runtimeconfig.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.csproj.CopyComplete
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\4 - RabbitMQ Round Robin Pattern C# .Net Core e Workers\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.genruntimeconfig.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.exe
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.deps.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.runtimeconfig.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RConsumidor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.csproj.AssemblyReference.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.csproj.CopyComplete
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\12 - RabbitMQ Dead Letter Strategy com C# .Net Core\RConsumidor\RConsumidor\obj\Debug\netcoreapp3.1\RConsumidor.genruntimeconfig.cache
