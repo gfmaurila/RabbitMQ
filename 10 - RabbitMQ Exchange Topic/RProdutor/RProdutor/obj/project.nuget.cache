@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUlWi0W/ZV3fxt6J7YSrrmMryNWziYi2KT7zipZMHhtHEV9x6GEGAq+jD99GgNPdZi78AKKvJiKqKOjevZXYgw==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Work\\Exemplos\\Alexandre Brandão Lustosa\\RabbitMQ\\9 - RabbitMQ Exchange Direct com C# .Net Core\\RProdutor\\RProdutor\\RProdutor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gfmau\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
