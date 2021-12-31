@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KWiEUqNqnX4/CVUCuiN4P9ZOUijhM64+go1kyx6QNdgHAzk6DLKRX6zBVIoxLdFrTPaAi0Is2XRaWOqwnzQPAg==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Work\\Exemplos\\Alexandre Brandão Lustosa\\RabbitMQ\\13 - RabbitMQ Queue e Message TTL Expiration\\RProdutor\\RProdutor\\RProdutor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gfmau\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

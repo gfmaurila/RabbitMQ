@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = RConsumidor
+build_property.ProjectDir = C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RConsumidor\RConsumidor\
