@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = rabbitmq_rpc_server
+build_property.ProjectDir = C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\

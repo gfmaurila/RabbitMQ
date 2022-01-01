@@ -1,0 +1,17 @@
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\bin\Debug\netcoreapp3.1\rabbitmq-rpc-server.exe
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\bin\Debug\netcoreapp3.1\rabbitmq-rpc-server.deps.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\bin\Debug\netcoreapp3.1\rabbitmq-rpc-server.runtimeconfig.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\bin\Debug\netcoreapp3.1\rabbitmq-rpc-server.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\bin\Debug\netcoreapp3.1\rabbitmq-rpc-server.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\bin\Debug\netcoreapp3.1\rabbitmq-rpc-server.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\obj\Debug\netcoreapp3.1\rabbitmq-rpc-server.csproj.AssemblyReference.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\obj\Debug\netcoreapp3.1\rabbitmq-rpc-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\obj\Debug\netcoreapp3.1\rabbitmq-rpc-server.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\obj\Debug\netcoreapp3.1\rabbitmq-rpc-server.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\obj\Debug\netcoreapp3.1\rabbitmq-rpc-server.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\obj\Debug\netcoreapp3.1\rabbitmq-rpc-server.csproj.CopyComplete
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\obj\Debug\netcoreapp3.1\rabbitmq-rpc-server.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\obj\Debug\netcoreapp3.1\rabbitmq-rpc-server.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\16 - RabbitMQ RPC Remote Procedure Call com C# .Net Core\rabbitmq-rpc-server\obj\Debug\netcoreapp3.1\rabbitmq-rpc-server.genruntimeconfig.cache
