@@ -1,0 +1,68 @@
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.exe
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.deps.json
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.json
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.dev.json
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.AssemblyReference.cache
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfoInputs.cache
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfo.cs
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CoreCompileInputs.cache
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CopyComplete
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Aulas\github\RabbitMQ\1 - C# .Net Core e RabbitMQ Queues Produtor e Consumidor\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.genruntimeconfig.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.exe
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.deps.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.AssemblyReference.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CopyComplete
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\13 - RabbitMQ Queue e Message TTL Expiration\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.genruntimeconfig.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.exe
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.deps.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.AssemblyReference.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CopyComplete
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\14 - RabbitMQ Persistence Message e Durable Queue\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.genruntimeconfig.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.exe
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.deps.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.AssemblyReference.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.csproj.CopyComplete
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.dll
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.pdb
+C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\15 - RabbitMQ Puslish Confirmation e Return Message\RProdutor\RProdutor\obj\Debug\netcoreapp3.1\RProdutor.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QUYc3STH5Sgvf/2HdYdMd1YC6CmLgE7GPO3E4f4F9BiQt+cvc5cWhxHtoGPLAf7Salvb4UvNXoZTtzUqDRN4g==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Work\\Exemplos\\Alexandre Brandão Lustosa\\RabbitMQ\\15 - RabbitMQ Puslish Confirmation e Return Message\\RProdutor\\RProdutor\\RProdutor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gfmau\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gfmau\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
