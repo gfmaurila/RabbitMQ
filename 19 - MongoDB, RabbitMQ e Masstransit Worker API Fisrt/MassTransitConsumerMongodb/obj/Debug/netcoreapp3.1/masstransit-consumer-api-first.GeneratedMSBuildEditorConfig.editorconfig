@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = masstransit_consumer_api_first
+build_property.ProjectDir = C:\Work\Work\Exemplos\Alexandre Brandão Lustosa\RabbitMQ\19 - MongoDB, RabbitMQ e Masstransit Worker API Fisrt\MassTransitConsumerMongodb\
